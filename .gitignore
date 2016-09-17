@@ -3,6 +3,7 @@
 
 #temp files
 temp/
+!/log
 
 # User-specific files
 *.suo
